@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Independent git repos in sub-folders (add paths as needed)
+# my-work/some-repo/
+# my-projects/some-repo/
