@@ -28,7 +28,7 @@ That's the difference between AI as a toy and AI as infrastructure.
 
 **Option 1: Clone and customize**
 ```bash
-git clone https://github.com/YOUR-USERNAME/healthofai.git
+git clone https://github.com/chiefhealthai/healthofai.git
 ```
 Then fill in your priorities, contacts, and recurring commitments.
 
