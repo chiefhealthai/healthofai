@@ -1,3 +1,4 @@
 date,type,category,source,item,status,priority,tags
-2026-02-13,task,business,self,"Set up Health of AI OS",open,high,healthofai
-2026-02-13,task,personal,self,"Add personal priorities to active.md",open,medium,setup
+2026-02-13,task,personal,self,Walked the dog,done,low,routine
+2026-02-13,task,business,self,Finished the Q1 report,done,high,report
+2026-02-13,task,personal,self,Paid the electric bill,done,medium,bills

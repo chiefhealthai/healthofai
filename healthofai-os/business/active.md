@@ -3,7 +3,7 @@
 **Last updated:** 2026-02-13
 
 ## Priorities
-- (Add your work priorities here)
+- Prep for client call on Thursday (2026-02-19)
 
 ## Ongoing
 - (Recurring work commitments)
@@ -12,4 +12,4 @@
 - (Business ideas and strategic thinking)
 
 ## Completed
-- (Items move here when done)
+- Finish Q1 report for boss (2026-02-13)
