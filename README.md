@@ -18,7 +18,7 @@ The result: AI that knows your full picture on demand — your deadlines, your r
 
 ## The Before and After
 
-**Without this system:** You open an AI chat and say "what should I work on today?" The AI says something vague like "check your calendar and prioritize your tasks." Useless.
+**Without this system:** You open an AI chat and say "what should I work on today?" The AI says something vague like "check your calendar and prioritize your tasks." Not super useful.
 
 **With this system:** You say "daily check-in" and the AI reads your active dashboards, scans your log for open items, checks your calendar, reviews your email, and gives you a prioritized briefing: "You have a client call at 2pm — here's what you discussed last time and what you need to follow up on. Your proposal deadline is Friday and it's not started yet. Your partner's birthday is tomorrow and you haven't made a reservation."
 
